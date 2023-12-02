@@ -1,5 +1,6 @@
 # Ignore all files with the specified name.
 credentials.py
+.python-version
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
