@@ -1,6 +1,10 @@
 # Ignore all files with the specified name.
 credentials.py
 .python-version
+/ven311/
+example.ipynb
+ref_1.ipynb
+ref_2.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
